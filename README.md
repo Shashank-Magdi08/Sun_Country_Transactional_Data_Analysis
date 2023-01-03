@@ -4,7 +4,6 @@ Sun Country, a unique airline carrier that is enduring the threat of intense com
 
 This repository consists of EDA, Data preparation, Clustering techniques implemented in an effort to obtain a higher level understanding of the customer profiles followed by enlisting our recommendations.
 
-
 ![image](https://user-images.githubusercontent.com/102503431/210298836-70bb7faf-8245-4116-a81b-5b1526777475.png)
 
 Noting that all of our clustering findings used a sample size of 7218, which is 0.5% of the total data.
@@ -28,11 +27,12 @@ This segment consists of the youngest (mean age of 36) non-members. Although the
 Most customers book through the SCA website, which accounts for 42.47%. 67.98% of customers among standard members and 71.5% of customers among elite members book via the SCA website. Among nonmembers, 35.98% of customers book tickets through the SCA website, and 48.5% of customers book using outside bookings. This is in line with Sun Country’s expectations.
     
 **Recommendations**
-1) Prioritizing targeted marketing efforts to drive enrollment based on cluster specific needs will lead to marketing cost reduction.
-● “Retention Members” (Cluster 2) has higher spending, highest number of standard members, and all of the Elite group are in this segment. We can target these people who are likely to be open to become a member but not a member yet in this group through getting main customers’ characteristics of cluster 2.
-● “Tough Nut” customer cluster(Cluster 3) is mostly booking coach-booked classes with an outside booking channel. Outside Booking is through the third party and is harder to target these customers to sign up for a reward program.
-● So through prioritizing non-member in the “Retention Members” group and not prioritizing “Tough Nut” customers can lead to a cost effective marketing strategy.
+1) Prioritizing targeted marketing efforts to drive enrollment based on cluster specific needs will lead to marketing cost reduction.  
+● “Retention Members” (Cluster 2) has higher spending, highest number of standard members, and all of the Elite group are in this segment. We can target these people who are likely to be open to become a member but not a member yet in this group through getting main customers’ characteristics of cluster 2.  
+● “Tough Nut” customer cluster(Cluster 3) is mostly booking coach-booked classes with an outside booking channel. Outside Booking is through the third party and is harder to target these customers to sign up for a reward program.   
+● So through prioritizing non-member in the “Retention Members” group and not prioritizing “Tough Nut” customers can lead to a cost effective marketing strategy.    
 
 
 2) Making the UflyMember enrollment process more visible and easier on SCA website can increase member enrollment of “Prospective Members '' who are not members but make flight bookings on SCA website.
+
 Most of the “Prospective Members ''(cluster 1) booked their flight on the SCA website, but not enrolled as a member. In the checkout process, SCA can make the enrollment process easier through simply becoming a member button, with an incentive of discount for their flight ticket. Also on the website itself, they can put a UflyMember banner to make the enrollment process visible and easy.

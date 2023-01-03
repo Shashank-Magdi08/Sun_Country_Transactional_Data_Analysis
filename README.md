@@ -1,4 +1,4 @@
-# Sun Savers: Sun Country Transactional Data Analysis
+# Sun Savers: Sun Country Airlines Transactional Data Analysis
 
 
 Sun Country Airlines transactional data had been provided as part of the **Fall 2022 semester MSBA 6411: Exploratory Business Data Analytics class.**  The then top level executives of SCA in 2014, Warnken and Vaughan had assigned the initial data exploration project to a team of students enrolled in the Master of Science in Business Analytics program at the Carlson School of Management. They asked the students to analyze the de-identified data and to tease out insights related to customer segments, travel patterns, and any other useful points that might be revealed. The students presented their findings at the end of a 14-week engagement. As part of the course this time around in Fall 2022 semester, this dataset was re-introduced  as part of the project-1 and students were asked to present their findings after thoruough analysis.

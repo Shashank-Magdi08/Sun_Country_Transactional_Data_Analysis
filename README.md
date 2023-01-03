@@ -8,10 +8,10 @@ This repository consists of EDA, Data preparation, Clustering techniques impleme
 
 Noting that all of our clustering findings used a sample size of 7218, which is 0.5% of the total data.
 
-**Q) Why do we choose K-medoids as our clustering technique?**
+## **Q) Why do we choose K-medoids as our clustering technique?**
 Firstly, K-medoids, coupled with Gower distance can successfully handle both categorical and numerical types of data. K-medoids is also less sensitive to outliers than other partitioning algorithms as there are outliers in our dataset that might distort our results, thus applying K-medoid will address this problem. Additionally, there is no statistical and distribution assumption about the data, making K-medoids a good choice. It is easy to interpret, considering the Data background of the management hierarchy of Sun Country, this method can help the management better comprehend the conclusions produced.
 
-**Q) Are there natural groups of clients based on flight purchase characteristics?**
+## **Q) Are there natural groups of clients based on flight purchase characteristics?**
 We utilized the K-medoids clustering to cluster our clients into three big groups:
 
  **- Cluster 1 - Prospective members**
@@ -23,10 +23,10 @@ This segment consists of a slightly older (average age of 45)highest spending gr
 **- Cluster 3 - Tough Nut Customer**
 This segment consists of the youngest (mean age of 36) non-members. Although these non-members((3064 in total) spent significantly($273 mean base fare), they booked all their tickets via outside booking channels(100%) .
 
-**Q ) Do online booking channels meet the expectations?**
+## **Q ) Do online booking channels meet the expectations?**
 Most customers book through the SCA website, which accounts for 42.47%. 67.98% of customers among standard members and 71.5% of customers among elite members book via the SCA website. Among nonmembers, 35.98% of customers book tickets through the SCA website, and 48.5% of customers book using outside bookings. This is in line with Sun Country’s expectations.
     
-**Recommendations**
+## **Recommendations**
 1) Prioritizing targeted marketing efforts to drive enrollment based on cluster specific needs will lead to marketing cost reduction.  
 ● “Retention Members” (Cluster 2) has higher spending, highest number of standard members, and all of the Elite group are in this segment. We can target these people who are likely to be open to become a member but not a member yet in this group through getting main customers’ characteristics of cluster 2.  
 ● “Tough Nut” customer cluster(Cluster 3) is mostly booking coach-booked classes with an outside booking channel. Outside Booking is through the third party and is harder to target these customers to sign up for a reward program.   

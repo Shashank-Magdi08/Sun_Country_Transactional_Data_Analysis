@@ -5,4 +5,5 @@ Sun Country, a unique airline carrier that is enduring the threat of intense com
 This repository consists of EDA, Data preparation, Clustering techniques implemented in an effort to obtain a higher level understanding of the customer profiles followed by enlisting our recommendations.
 
 
-[Team_Sun_Savers_Slides_Final (dragged).pdf](https://github.com/Shashank-Magdi08/Sun_Savers-Sun_Country_Transactional_Analysis/files/10334275/Team_Sun_Savers_Slides_Final.dragged.pdf)
+![image](https://user-images.githubusercontent.com/102503431/210298836-70bb7faf-8245-4116-a81b-5b1526777475.png)
+

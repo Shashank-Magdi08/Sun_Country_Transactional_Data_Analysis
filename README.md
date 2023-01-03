@@ -1,4 +1,4 @@
-# Sun Savers: Sun_Country Transactional_Analysis
+# Sun Savers: Sun Country Transactional_Analysis
 This SCA repository consists of the analyses carried out on the official customer transactions dataset by Sun Country Airlines
 Sun Country, a unique airline carrier that is enduring the threat of intense competition from large national brands. The company hopes to know if online booking channels meet their expectations, and how to drive enrolment of ufly reward program and some other questions. To answer the business questions, our data team analysed Sun Country’s transactional data to provide robust insights and understand different segments of customer profiles. These insights will allow Sun Country to know if online booking channels meet the expectations, enhance their customer experience to churn more customers become their members, introduce targeted programs to said customers, and in turn drive their revenue.
 
